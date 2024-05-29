@@ -1,2 +1,2 @@
 # MachineLearning
-Exercicios para a disciplina de aprendizegem de maquina
+Exercicios para a disciplina de aprendizgem de maquina
